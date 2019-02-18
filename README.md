@@ -8,7 +8,7 @@ and after login you will get all credentials you need to configure aweber api
 
 #now open stand_alone_example.php or [config/aweber.php] and configure with the credentials you just find
 
-Features: 
+`Features:`
 
 #get Subscribers
 
