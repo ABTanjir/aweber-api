@@ -11,12 +11,21 @@ and after login you will get all credentials you need to configure aweber api
 Features: 
 
 #get Subscribers
+
 #add Subscribers
+
 #delete Subscribers
+
 #get Subscribers List
+
 #move Subscribers
+
 #move Subscribers and Delete from old one
+
 #Unsubscribe Subscribers
+
 #moveOrAddSubscriber [Thats asically find an email if found then move the subscriber to the list or create a new one]
+
 #updateSubscriber
+
 #getListSubscribers [get subscribers of a aweber list]
